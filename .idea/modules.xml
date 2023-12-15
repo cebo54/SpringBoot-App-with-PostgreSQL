@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/icardi/icardi.iml" filepath="$PROJECT_DIR$/icardi/icardi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icardi/SpringBootApp.iml" filepath="$PROJECT_DIR$/icardi/SpringBootApp.iml" />
     </modules>
   </component>
 </project>
